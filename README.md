@@ -37,6 +37,8 @@ I am a Tech and Coding enthusiast. I am currently pursuing my Bachelor of Engine
 
 <code> <a href="https://leetcode.com/dipakjagtap29/"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" title="LeetCode Profile"/></a> </code>
 
+<code> <a href="https://leetcode.com/dipakjagtap29/"><img width="40px" src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" title="GFG Profile"/></a> </code>
+
 
 <!-- <a href="https://www.codechef.com/users/saumyasingh203/">![CodeChef Badge](https://cp-logo.vercel.app/codechef/saumyasingh203?logo=true) </a>
 <a href="https://codeforces.com/profile/saumya_singh203">![CodeForces Badge](https://cp-logo.vercel.app/codeforces/saumya_singh203?logo=true) </a>
