@@ -1,4 +1,4 @@
- Hello, I'm Dipak! </h1>
+ <h1>Hello, I'm Dipak! </h1>
 
 I am a Tech and Coding enthusiast. I am currently pursuing my Bachelor of Engineering degree in computer Engineering from Sinhgad Academy of Engineering, Pune.
 
